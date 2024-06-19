@@ -26,6 +26,10 @@ int main() {
     // This will print 'k' because 'lk' is treated as an integer and the least significant byte 'k' is stored in w
     printf("w = %c\n", w);
     
+    printf("%d\n", 2);
+    
+    printf("%f\n", 2.01);
+    
     // Return 0 to indicate successful completion of the program
     return 0;
 }
