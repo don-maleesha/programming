@@ -30,6 +30,14 @@ int main() {
     
     printf("%f\n", 2.01);
     
+    printf("%d\n", 2 + 3);
+    
+    printf("%f\n", 2.3 + 3.5);
+    
+    printf("%c\n", 'AB');
+    
+    printf("%c \t %c", 'a', 'b');
+    
     // Return 0 to indicate successful completion of the program
     return 0;
 }
