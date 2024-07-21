@@ -17,7 +17,7 @@ int main() {
     printf("x = %d\n", x);
     
     // Print the value of y using the %f format specifier for floating-point numbers
-    printf("y = %f\n", y);
+    printf("y = %.3f\n", y);
     
     // Print the value of z using the %c format specifier for characters
     printf("z = %c\n", z);
